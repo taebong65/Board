@@ -1,0 +1,13 @@
+@charset "utf-8";
+
+
+.mainslide {
+	display:block;
+	text-align: center;
+	margin : 0,auto;
+	
+}
+
+.mainslide img{
+ 	width :1200px; 
+}
